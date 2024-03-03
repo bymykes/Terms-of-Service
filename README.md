@@ -1,8 +1,8 @@
 # Terms-of-Service
 
-TempoTrekker Bot Terms of Service
+D1sc Bot Terms of Service
 
-These Terms of Service ("Terms") govern your use of TempoTrekker Bot and constitute a legal agreement between you and the bot's providers. By using TempoTrekker Bot, you agree to these Terms.
+These Terms of Service ("Terms") govern your use of D1sc Bot and constitute a legal agreement between you and the bot's providers. By using D1sc Bot, you agree to these Terms.
 
 Use of the Bot:
 
